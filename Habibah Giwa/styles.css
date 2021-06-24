@@ -1,0 +1,65 @@
+body {
+  margin: 3% 15%;
+}
+
+#title-nav {
+  background-color: #fff;
+  border: 1px solid rgb(241, 241, 241);
+}
+nav ul {
+  display: flex;
+}
+ul li {
+  text-decoration: none;
+  list-style: none;
+  margin: 1%;
+}
+li a {
+  text-decoration: none;
+  color: #000;
+}
+.favicon-style {
+  width: 40px;
+  height: 20px;
+}
+.font-icon {
+  padding: 3px;
+  margin-left: 40%;
+  background-color: rgba(35, 213, 236, 0.979);
+}
+.font-icon2 {
+  background-color: blue;
+}
+.icons {
+  color: #fff;
+}
+#form-input {
+  margin: 7% 15% 7%;
+}
+.container {
+  padding: 20px;
+  text-align: center;
+}
+.p-img {
+  width: 100px;
+  height: 100px;
+}
+/* #table {
+  margin: 3% 15%;
+} */
+
+.box {
+  border-radius: 10px;
+  background-color: rgb(238, 236, 236);
+}
+.comment {
+}
+.list-item {
+  display: flex;
+  justify-content: space-around;
+}
+.disqus {
+  font-weight: bolder;
+  font-size: 1.5rem;
+  color: rgb(152, 152, 248);
+}
